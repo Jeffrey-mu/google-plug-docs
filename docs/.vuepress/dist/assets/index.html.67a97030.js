@@ -1,1 +1,0 @@
-const a={key:"v-8daa1a0e",path:"/",title:"Chrome\u6269\u5C55\u5F00\u53D1\u6559\u7A0B",lang:"zh-CN",frontmatter:{pageClass:"custom-page-class"},excerpt:"",headers:[],git:{updatedTime:1654153852e3,contributors:[{name:"mr-wang1009",email:"1115378579@qq.com",commits:1}]},filePathRelative:"README.md"};export{a as data};
