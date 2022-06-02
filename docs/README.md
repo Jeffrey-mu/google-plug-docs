@@ -1,0 +1,3 @@
+---
+pageClass: custom-page-class
+---
